@@ -1,2 +1,2 @@
 # TCS_Codevita
-These are my solutions for TCS CodeVita challenges
+These are my solutions for TCS CodeVita challenge
