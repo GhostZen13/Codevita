@@ -1,2 +1,3 @@
 # TCS-Codevita
-These are the solutions for TCS Codevita challenges
+
+Solutions for TCS Codevita challenges solved in python
